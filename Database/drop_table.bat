@@ -1,0 +1,1 @@
+sqlplus vms/vms @droptable.sql
