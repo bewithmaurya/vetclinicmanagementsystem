@@ -1,0 +1,2 @@
+# vetclinicmanagementsystem
+This is the project on the “Veterinary Clinic Management System”. It is the management of the vet clinic having different kinds of works such as Joining/Relieving of Employee and Doctor, Appointment/Registration entry of Patient, Medicine management, Fee collection and also the ADDITIONAL FACILITIES like issuing of Creation of Patient Record for these problem that is being checked in clinic keeping in view of all the basic area that concerned for a Clinic.
